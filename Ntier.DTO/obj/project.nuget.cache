@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KSCFSURPupewhk3sm4xqL3GefkDG8+eTFHkiIFjrNklzwpsDDnL0CWlTe5E/lnTfxoyWdxb0Zger5qUZ2ci+GQ==",
+  "success": true,
+  "projectFilePath": "D:\\CCPTPM\\CCPTPM\\Miki_server\\Ntier.DTO\\Ntier.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Tan\\.nuget\\packages\\selenium.webdriver\\4.22.0\\selenium.webdriver.4.22.0.nupkg.sha512"
+  ],
+  "logs": []
+}
