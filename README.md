@@ -1,0 +1,4 @@
+---Mở folder NtierAPI --> Mở Ntier.Api.sln
+---Restore database mikibackup.bak
+---Run project NtierApi
+---Import Ntier.API.postman_collection bằng Postman
